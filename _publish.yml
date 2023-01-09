@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 30942ea3-49b5-4133-9957-cb19d47e75ba
+      url: 'https://grand-sorbet-0c6539.netlify.app'
