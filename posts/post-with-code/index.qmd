@@ -8,6 +8,10 @@ image: "image.jpg"
 
 This is a post with executable code.
 
+Das ist ein Post mit R-Code
+
+Yey :)
+
 ```{r}
 1 + 1
 ```

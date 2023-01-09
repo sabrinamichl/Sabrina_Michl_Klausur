@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Sabrina_Michl_Klausur"
+  title: "Sabrina's Data Science Blog"
   navbar:
     right:
       - about.qmd
@@ -14,6 +14,3 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-editor: visual
-
