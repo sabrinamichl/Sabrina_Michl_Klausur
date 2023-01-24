@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Sabrina’s Data Science Blog",
     "section": "",
-    "text": "Das ist mein neuer Blogeintrag vom 09.01.2023\nDas vorklassifizierte Data Set von Michael (2019), nach CC-BY-4.0 lizensiert.\nDie vorgefertigte Word-Embedding Liste von Grave et al. (2018), ist nach CC-BY-SA-3.0 lizensiert.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTest-Post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\nSabrina Michl\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nGrave, Edouard, Piotr Bojanowski, Prakhar Gupta, Armand Joulin, and Tomas Mikolov. 2018. “Learning Word Vectors for 157 Languages.” In Proceedings of the International Conference on Language Resources and Evaluation (LREC 2018).\n\n\nMichael, Wiegand. 2019. GermEval-2018 Corpus (DE). heiDATA, V1. https://doi.org/10.11588/data/0B5VML."
+    "text": "Das ist mein neuer Blogeintrag vom 09.01.2023\nDas vorklassifizierte Data Set von Michael (2019), nach CC-BY-4.0 lizensiert.\nDie vorgefertigte Word-Embedding Liste von Grave et al. (2018), ist nach CC-BY-SA-3.0 lizensiert.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWie ich beim Text Mining vorgehe\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nTest-Post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\nSabrina Michl\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nGrave, Edouard, Piotr Bojanowski, Prakhar Gupta, Armand Joulin, and Tomas Mikolov. 2018. “Learning Word Vectors for 157 Languages.” In Proceedings of the International Conference on Language Resources and Evaluation (LREC 2018).\n\n\nMichael, Wiegand. 2019. GermEval-2018 Corpus (DE). heiDATA, V1. https://doi.org/10.11588/data/0B5VML."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/TextMining/TextMining.html",
+    "href": "posts/TextMining/TextMining.html",
+    "title": "Wie ich beim Text Mining vorgehe",
+    "section": "",
+    "text": "Das ist mein neuer Blogeintrag vom 09.01.2023\n1.\n2.\n3.\n\nWeihnachten ist!\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

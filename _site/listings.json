@@ -2,7 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/TextMining/TextMining.html",
       "/posts/post-with-code/index.html"
     ]
+  },
+  {
+    "listing": "/posts/TextMining/TextMining.html",
+    "items": []
   }
 ]

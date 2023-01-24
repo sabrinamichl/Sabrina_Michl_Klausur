@@ -1,0 +1,22 @@
+---
+title: "Wie ich beim Text Mining vorgehe"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Das ist mein neuer Blogeintrag vom 09.01.2023
+
+1\.
+
+2\.
+
+3\.
+
+4.  Weihnachten ist!
