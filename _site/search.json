@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Sabrina’s Data Science Blog",
     "section": "",
-    "text": "Das ist mein neuer Blogeintrag vom 09.01.2023\n\n1+1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Das ist mein neuer Blogeintrag vom 09.01.2023\nDas vorklassifizierte Data Set von Michael (2019), nach CC-BY-4.0 lizensiert.\nDie vorgefertigte Word-Embedding Liste von Grave et al. (2018), ist nach CC-BY-SA-3.0 lizensiert.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTest-Post\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\nSabrina Michl\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nGrave, Edouard, Piotr Bojanowski, Prakhar Gupta, Armand Joulin, and Tomas Mikolov. 2018. “Learning Word Vectors for 157 Languages.” In Proceedings of the International Conference on Language Resources and Evaluation (LREC 2018).\n\n\nMichael, Wiegand. 2019. GermEval-2018 Corpus (DE). heiDATA, V1. https://doi.org/10.11588/data/0B5VML."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Test-Post",
     "section": "",
-    "text": "This is a post with executable code.\nDas ist ein Post mit R-Code\nYey :)\n\n1 + 1\n\n[1] 2"
+    "text": "Das ist ein Post mit R-Code\nYey :)\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "posts/welcome/index.html",

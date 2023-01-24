@@ -9,10 +9,11 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
+bibliography: bib.bib
 ---
 
 # Das ist mein neuer Blogeintrag vom 09.01.2023
 
-```{r}
-1+1
-```
+Das vorklassifizierte Data Set von @wiegand2019germeval, nach CC-BY-4.0 lizensiert.
+
+Die vorgefertigte Word-Embedding Liste von @grave2018learning, ist nach CC-BY-SA-3.0 lizensiert.
